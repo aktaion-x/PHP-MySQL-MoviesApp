@@ -1,0 +1,11 @@
+<?php
+// this is a MySQL Database
+
+// database hostname {if the MySQL DB on the same server put `localhost`}
+$host = '';
+// database name
+$db = '';
+// database username e.g. root
+$user = '';
+// database password
+$password = '';
